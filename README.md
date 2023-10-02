@@ -2,7 +2,7 @@
 - 👀 I’m interested in Penetration Testing / Red Teaming.
 - 🌱 I’m currently learning Cyber Security in college, tryhackme and HTB.
 - 💞️ I’m looking to collaborate on with poeple interested in pentesting.
-- 🧑🏿‍💻 I'm a 17yr old aspiring pentester.
+- 🧑🏿‍💻 I'm a 18yr old aspiring pentester.
 - 📫 How to reach me ...
 
 <!---

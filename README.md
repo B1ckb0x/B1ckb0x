@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @B1ckb0x - Emmanuel
-- 👀 I’m interested in Penetration Testing / Red Teaming.
-- 🌱 I’m currently learning Cyber Security in college, tryhackme and HTB.
-- 💞️ I’m looking to collaborate on with poeple interested in pentesting.
-- 🧑🏿‍💻 I'm a 18yr old aspiring pentester.
+- 👀 I’m interested in AI / ML Engineering.
+- 🌱 I’m currently working on software development in Python.
+- 💞️ I’m looking to collaborate with people interested in programming.
+- 🧑🏿‍💻 I'm a 19yr old aspiring developer.
 - 📫 How to reach me ...
 
 <!---

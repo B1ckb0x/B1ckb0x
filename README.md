@@ -1,4 +1,6 @@
-## Hey, I'm Emmanuel
+## Hey, I'm Emmanuel 👋🏾
+
+I'm a 19-year-old developer based in the United States, and I'm passionate about crafting digital experiences by building next-gen software, web apps, and ML-trained model.
 - 👋 Hi, I’m @B1ckb0x - Emmanuel
 - 👀 I’m interested in AI / ML Engineering.
 - 🌱 I’m currently working on software development in Python.

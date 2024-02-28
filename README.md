@@ -2,7 +2,7 @@
 
 I'm a 19-year-old developer based in the United States, and I'm passionate about crafting digital experiences by building next-gen software, web apps, and ML-trained models.
 
-# 📦<ins>Toolbox</ins>
+# 📦Toolbox
 **Programming Language:** ```Python``` ```Java```
 **Database:** ```MongoDB```
 **IDE:** ```Visual Studio Code``` ```PyCharm``` ```IntelliJ```

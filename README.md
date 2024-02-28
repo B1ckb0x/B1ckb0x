@@ -1,4 +1,4 @@
-##Hey, I'm Emmanuel
+## Hey, I'm Emmanuel
 - 👋 Hi, I’m @B1ckb0x - Emmanuel
 - 👀 I’m interested in AI / ML Engineering.
 - 🌱 I’m currently working on software development in Python.

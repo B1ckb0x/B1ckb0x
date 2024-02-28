@@ -6,7 +6,9 @@ I'm a 19-year-old developer based in the United States, and I'm passionate about
 **Programming Language:** ```Python``` ```Java```
 <br />
 **Database:** ```MongoDB```
+<br />
 **IDE:** ```Visual Studio Code``` ```PyCharm``` ```IntelliJ```
+<br />
 **Others:** ```Git``` ```GitHub``` ```AWS```
 
 

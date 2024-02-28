@@ -12,7 +12,8 @@ I'm a 19-year-old developer based in the United States, and I'm passionate about
 <br />
 **Others:** ```Git``` ```GitHub``` ```AWS```
 
-
+## Contact
+For a quick response, DM me on [LinkedIn]: www.linkedin.com/in/emmanuel-a-1b6398227
 
 <!---
 B1ckb0x/B1ckb0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
